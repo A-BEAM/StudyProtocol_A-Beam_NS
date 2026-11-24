@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "App-based Inhibition Training in Alcohol Use Disorder: Protocol for an Adaptive Multicenter Leapfrog Trial including Neurophysiological Markers"
+abstract: >-
+  Simulation code for the sample-size planning of the A-BEAM study (Stoffel et al.'s study
+  protocol "App-based Inhibition Training in Alcohol Use Disorder: Protocol for an Adaptive
+  Multicenter Leapfrog Trial including Neurophysiological Markers").
+version: v1.0.0
+date-released: 2026-11-24
+license: CC-BY-4.0
+doi: 10.5281/zenodo.24495972
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24495972
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.24495973
+    description: "Version v1.0.0"
+repository-code: "https://github.com/A-BEAM/StudyProtocol_A-Beam_NS"
+authors:
+  - family-names: Brogli
+    given-names: Luzius
+    affiliation: "University of Bern"
+    orcid: "https://orcid.org/0000-0001-8727-9240"
+  - family-names: Stoffel
+    given-names: Natascha
+    affiliation: "University of Bern"
+    orcid: "https://orcid.org/0009-0000-4198-4921"
+  - family-names: Stein
+    given-names: Maria
+    affiliation: "University of Bern"
+    orcid: "https://orcid.org/0000-0002-7458-1982"
