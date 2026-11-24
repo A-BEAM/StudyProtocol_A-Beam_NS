@@ -10,6 +10,7 @@ including Neurophysiological Markers**
 * **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 * **How to cite:** Stoffel N, et al. App-based Inhibition Training in Alcohol Use Disorder:
   Protocol for an Adaptive Multicenter Leapfrog Trial including Neurophysiological Markers.
+* **Code DOI:** DOI: 10.5281/zenodo.24495973
 
 `leapfrog_two_phase_simulation.R` simulates a six-arm, two-phase Bayesian leapfrog trial for
 one set of design parameters and estimates false positive and false negative rates, expected
